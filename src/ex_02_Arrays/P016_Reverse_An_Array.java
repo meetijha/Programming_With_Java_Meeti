@@ -43,8 +43,8 @@ public class P016_Reverse_An_Array {
 
         /*
         If instead of below step we write
-        arr=temp; // here only arr started poiting to local reference of temp
-        Original valie inside arr remains same
+        arr=temp; // here only arr started pointing to local reference of temp
+        Original value inside arr remains same
         */
 
         for(int i=0;i< temp.length;i++)

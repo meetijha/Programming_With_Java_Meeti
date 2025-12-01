@@ -5,7 +5,7 @@ public class P017_Pairs_In_Array {
         int[] arr={2,5,8,12,7,9};
         printPairsInArray(arr);
     }
-
+// For pairs- elements can be anywhere in array
     public static void printPairsInArray(int[] arr)
     {
 
